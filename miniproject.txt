@@ -1,0 +1,33 @@
+student@ubuntu:~/gazebo_plugin_tutorial/build$ gazebo ~/gazebo_plugin_tutorial/ApoorvaHariniTharun.world --verbose
+Gazebo multi-robot simulator, version 9.0.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+Gazebo multi-robot simulator, version 9.0.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+[Msg] Waiting for master.
+[Msg] Waiting for master.
+[Msg] Connected to gazebo master @ http://127.0.0.1:11345
+[Msg] Connected to gazebo master @ http://127.0.0.1:11345
+[Msg] Publicized address: 192.168.195.134
+[Msg] Publicized address: 192.168.195.134
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [Event.cc:61] Warning: Deleting a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
+Welcome To Apoorva, Harini and Tharun World!
+[Err] [Plugin.hh:180] Failed to load plugin libFollowerPlugin.so: libFollowerPlugin.so: cannot open shared object file: No such file or directory
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/student/gazebo_plugin_tutorial/build/CMakeFiles"
+[Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/student/gazebo_plugin_tutorial/build/CMakeTmp"
+[Wrn] [Event.cc:61] Warning: Deleting a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
+[Wrn] [msgs.cc:1852] Conversion of sensor type[depth] not supported.
